@@ -13,7 +13,7 @@ body{
 }
 .navbar-brand img{
   height: auto;
-  width: 30px;
+  width: 20px;
 }
 .nav-item .nav-link:hover{
   color: #00ccff!important;
